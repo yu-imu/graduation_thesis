@@ -18,7 +18,7 @@ injectScript {Boolean} Default true,0
 onLoading {Function},0
 onSuccess {Function},0
 onAfterRender {Function},0
-print(len([s for s in l if s.endswith('e')])),0
+len([s for s in l if s.endswith('e')])),0
 select* from database where id = 1;,0
 Graph minors IV Widths of trees and well quasi ordering,0
 "1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT random FROM performance_schema.events_waits_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- hYEx",1

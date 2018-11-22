@@ -1,14 +1,15 @@
 # 次にやるべきこと
 # 1 encodingの事故をなくす 最重要
-# 2 時間を計測できるようにする
-
+# # -*- coding:utf-8 -*-2 時間を計測できるようにする
+# -*- coding:utf-8 -*-
 import MeCab
 import csv
 import codecs
 import time
 import numpy as np
 import pandas as pd
-from gensim import corpora, matutils
+import nltk
+from gensim import corpora, matutils, models
 from sklearn.svm import SVC
 from sklearn.metrics import accuracy_score
 from sklearn.model_selection import train_test_split
@@ -16,24 +17,44 @@ from sklearn.model_selection import train_test_split
 mecab = MeCab.Tagger('mecabrc')
 
 
-def tokenize(text):
+def tokenize_jp(text):
+    #ニホン語版形態素解析
     node = mecab.parseToNode(text)
     while node:
         if node.feature.split(',')[0] == '名詞':
             yield node.surface.lower()
         node = node.next
 
+def tokenize_proposal(text):
+    #英語版
+    books = []
+    new_text = nltk.word_tokenize(text)
+    txts = nltk.pos_tag(new_text)
+    for txt in txts:
+        # どこが重要か調べる
+        if txt[1] == "NNP":
+            books.append(txt[0])
+        if txt[1] == "POS":
+            books.append(txt[0])
+    return books
+
+# def tokenize_en(text):
+#     return nltk.word_tokenize(text)
+
 
 def get_words(contents):
     ret = []
     # ただのリストを投げる場合はこのタイプにする
     for content in contents:
-        ret.append(get_words_main(content))
-    return ret
+        #変更
+        ret.append(tokenize_proposal(content))
+    import pdb; pdb.set_trace();
+    return ret.uniq
 
 
 def get_words_main(content):
-    return [token for token in tokenize(content)]
+    # 日本語版
+    return [token for token in tokenize_jp(content)]
 
 def get_bow_words(dictionary, words):
     # 特徴ベクトル化
@@ -50,26 +71,26 @@ if __name__ == '__main__':
     column = []
     num = []
     with open('word.csv', errors='ignore') as f:
-        reader = csv.reader(f)
-        header = next(reader)  # ヘッダーを読み飛ばしたい時
+         reader = csv.reader(f)
+         header = next(reader)  # ヘッダーを読み飛ばしたい時
 
-        for row in reader:
-            column.append(row[0])
-            num.append(row[1])
+         for row in reader:
+             column.append(row[0])
+             num.append(row[1])
 
     data_train_s, data_test_s, label_train_s, label_test_s = train_test_split(column, num, test_size=0.3)
-    # print(data_train_s)
+
     words = get_words(data_train_s)
 
     dictionary = corpora.Dictionary(words)
     dictionary.filter_extremes(no_below=3, no_above=0.6)
     # docを取り出してループする
-    result = get_bow_words(dictionary, words)
+    train_result = get_bow_words(dictionary, words)
 
 
     # 学習させる
     classifier = SVC()
-    classifier.fit(result, label_train_s)
+    classifier.fit(train_result, label_train_s)
     test_words = get_bow_words(dictionary,get_words(data_test_s))
     result = classifier.predict(test_words)
 
