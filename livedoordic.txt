@@ -1,0 +1,17 @@
+801
+13	0x716a717a71	7
+14	0x716b6b6a71	7
+15	all	1
+10	case	605
+12	concat	13
+11	else	605
+0	end	788
+1	events_waits_summary_by_instance	794
+2	exists	794
+3	from	196
+4	null	196
+5	performance_schema	800
+6	select	801
+7	then	801
+8	union	801
+9	when	801

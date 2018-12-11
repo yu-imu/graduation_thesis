@@ -2,28 +2,13 @@
 # 1 encodingの事故をなくす 最重要
 # # -*- coding:utf-8 -*-2 時間を計測できるようにする
 # -*- coding:utf-8 -*-
-import MeCab
 import csv
 import codecs
-import time
-import numpy as np
-import pandas as pd
 import nltk
 from gensim import corpora, matutils, models
 from sklearn.svm import SVC
 from sklearn.metrics import accuracy_score
-from sklearn.model_selection import train_test_split
-
-mecab = MeCab.Tagger('mecabrc')
-
-
-def tokenize_jp(text):
-    #ニホン語版形態素解析
-    node = mecab.parseToNode(text)
-    while node:
-        if node.feature.split(',')[0] == '名詞':
-            yield node.surface.lower()
-        node = node.next
+from sklearn.model_selection import train_test_split, GridSearchCV
 
 def tokenize_en(text):
     #英語版
@@ -55,7 +40,6 @@ def get_bow_words(dictionary, words):
 
 if __name__ == '__main__':
     # デコードでたまに失敗する
-    start = time.time()
     column = []
     num = []
     with open('word.csv', errors='ignore') as f:
@@ -66,28 +50,30 @@ if __name__ == '__main__':
              column.append(row[0])
              num.append(row[1])
 
-    data_train_s, data_test_s, label_train_s, label_test_s = train_test_split(column, num, test_size=0.4)
+    data_train_s, data_test_s, y_train, y_test= train_test_split(column, num, test_size=0.4, random_state=0)
 
-    words = get_words(data_train_s)
-    # dictionary = corpora.Dictionary(words)
-    dictionary = corpora.Dictionary.load_from_text('livedoordic.txt')
+    train_words = get_words(data_train_s)
+    test_words = get_words(data_test_s)
+    dictionary = corpora.Dictionary(train_words)
     # docを取り出してループする
-    train_result = get_bow_words(dictionary, words)
+    X_train = get_bow_words(dictionary, train_words)
+    X_test = get_bow_words(dictionary, test_words)
+    ## チューニングパラメータ
+    tuned_parameters = [{'kernel': ['rbf'], 'gamma': [1e-3, 1e-4],
+                         'C': [1, 10, 100, 1000]},
+                        {'kernel': ['linear'], 'C': [1, 10, 100, 1000]}]
 
+    scores = ['accuracy', 'precision', 'recall']
 
-    # 学習させる C': 1, 'gamma': 0.001, 'kernel': 'rbf'
-    classifier = SVC(C= 1, kernel='rbf', gamma= 0.001)
-    classifier.fit(train_result, label_train_s)
-    test_words = get_bow_words(dictionary,get_words(data_test_s))
-    result = classifier.predict(test_words)
-    accuracy_test = accuracy_score(result, label_test_s)
+    for score in scores:
+        print('\n' + '='*50)
+        print(score)
+        print('='*50)
 
-    elapsed_time = time.time() - start
-    #import pdb; pdb.set_trace()
-    f = open('test.csv','a')
+        clf = GridSearchCV(SVC(C=1), tuned_parameters, cv=5, scoring=score, n_jobs=-1)
+        clf.fit(X_train, y_train)
 
-    f.write('%.5f' % accuracy_test)
-    f.write('\n')
-    f.write("{0}".format(elapsed_time))
-    f.write('\n')
-    f.close()
+        print("\n+ ベストパラメータ:\n")
+        print(clf.best_estimator_)
+        print(clf.best_params_)
+        print(clf.best_score_)
