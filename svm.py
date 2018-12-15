@@ -69,9 +69,8 @@ if __name__ == '__main__':
     data_train_s, data_test_s, label_train_s, label_test_s = train_test_split(column, num, test_size=0.4)
 
     words = get_words(data_train_s)
-    # dictionary = corpora.Dictionary(words)
-    dictionary = corpora.Dictionary.load_from_text('livedoordic.txt')
-    # docを取り出してループする
+    dictionary = corpora.Dictionary(words)
+    dictionary = corpora.Dictionary.load_from_text('aaa.txt')
     train_result = get_bow_words(dictionary, words)
 
 

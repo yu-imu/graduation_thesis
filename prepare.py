@@ -8,7 +8,6 @@ import numpy as np
 from gensim import corpora
 from sklearn.model_selection import train_test_split
 from sklearn.feature_extraction.text import TfidfVectorizer
-from gensim.models import word2vec
 
 def tokenize_en(text):
     #英語版
@@ -38,3 +37,9 @@ if __name__ == '__main__':
     #６割学習する
     data_train_s, data_test_s, label_train_s, label_test_s = train_test_split(column, num, test_size=0.4)
     # 辞書作成 TF-IDFは微妙かも
+    texts = [[ '(',')',';',' ']]
+    words = get_words(data_train_s)
+    dictionary = corpora.Dictionary(words)
+    dictionary.filter_extremes(no_above=0.8)
+    dictionary.add_documents(texts)
+    dictionary.save_as_text('aaa.txt')
