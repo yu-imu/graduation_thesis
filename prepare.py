@@ -37,9 +37,9 @@ if __name__ == '__main__':
     #６割学習する
     data_train_s, data_test_s, label_train_s, label_test_s = train_test_split(column, num, test_size=0.4)
     # 辞書作成 TF-IDFは微妙かも
-    texts = [[ '(',')',';',' ']]
+    texts = [[ '(',')',';',' ','select','if','where','set','char','or','insert','alter','create','from','delete','table']]
     words = get_words(data_train_s)
     dictionary = corpora.Dictionary(words)
-    dictionary.filter_extremes(no_above=0.8)
+    dictionary.filter_extremes(no_below=2 ,no_above=0.8)
     dictionary.add_documents(texts)
     dictionary.save_as_text('aaa.txt')
